@@ -1,0 +1,65 @@
+{
+ "mssv": "2A202603058",
+ "ten": "TranAnhVan",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "van2772005@gmail.com",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000156069.jpg",
+  "000000445187.jpg",
+  "000000463932.jpg",
+  "000000525227.jpg",
+  "000000558066.jpg",
+  "000000189365.jpg",
+  "000000220045.jpg",
+  "000000461389.jpg",
+  "000000163118.jpg",
+  "000000391222.jpg",
+  "000000253584.jpg",
+  "000000326480.jpg"
+ ],
+ "faces": [
+  "face_125051.jpg",
+  "face_204787.jpg",
+  "face_300399.jpg",
+  "face_105668.jpg",
+  "face_356144.jpg",
+  "face_556064.jpg",
+  "face_99874.jpg",
+  "face_175798.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 1,
+   "job_id": 1,
+   "task_name": "persons-TranAnhVan"
+  },
+  "faces": {
+   "task_id": 2,
+   "job_id": 2,
+   "task_name": "faces-TranAnhVan"
+  },
+  "persons-extra": {
+   "task_id": 3,
+   "job_id": 3,
+   "task_name": "persons-extra-TranAnhVan"
+  },
+  "faces-extra": {
+   "task_id": 4,
+   "job_id": 4,
+   "task_name": "faces-extra-TranAnhVan"
+  }
+ },
+ "persons_extra": [
+  "000000065350.jpg",
+  "000000073537.jpg",
+  "000000104800.jpg"
+ ],
+ "faces_extra": [
+  "face_280788.jpg",
+  "face_300200.jpg",
+  "face_317330.jpg",
+  "face_45276.jpg",
+  "face_494518.jpg"
+ ]
+}
